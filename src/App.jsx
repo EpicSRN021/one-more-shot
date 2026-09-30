@@ -186,13 +186,12 @@ function Solution() {
 }
 
 const ingredients = [
-  { name: 'Fenugreek Seed Extract',  benefit: 'Boosts ALDH enzyme production to accelerate breakdown of toxic acetaldehyde.' },
-  { name: 'Korean Pear Juice',       benefit: 'Clinically studied to reduce blood alcohol levels and ease hangover severity.' },
-  { name: 'Mango Extract',           benefit: 'Rich in antioxidants that support liver function and metabolic recovery.' },
-  { name: 'Red Ginseng',             benefit: 'Significantly reduces plasma alcohol levels and improves hangover symptoms.' },
-  { name: 'L-Cysteine + Vitamin C',  benefit: 'Together these neutralize toxic acetaldehyde before it causes damage.' },
-  { name: 'Vitamin B Complex',       benefit: 'Replenishes B1 & B12 depleted by alcohol. Fights fatigue, brain fog, and sluggishness.' },
-  { name: 'Zinc  (8–11 mg)',         benefit: 'Essential for supporting the ADH+ALDH liver enzymes that metabolize ethanol.' },
+  { name: 'Sea Salt or Pink Himalayan Salt (⅛ tsp)',        benefit: 'Provides ~250–300mg of sodium to expand blood volume and fight the pounding hangover headache.' },
+  { name: 'Lite Salt / Nu-Salt (⅟16 tsp)',                  benefit: 'Potassium chloride rebalances cells dehydrated by alcohol.' },
+  { name: 'Magnesium Glycinate or Malate (50mg)',           benefit: 'Soothes muscles and nerves — gentler on the stomach than magnesium oxide.' },
+  { name: 'Coconut Water or Tart Cherry Juice (2 fl oz)',   benefit: 'Naturally rich in potassium and antioxidants that target alcohol-induced inflammation.' },
+  { name: 'Fresh Lemon or Lime Juice (1 tbsp)',             benefit: 'High acidity cuts through the heavy, metallic taste of concentrated minerals.' },
+  { name: 'Water Chaser (8–12 oz)',                         benefit: 'A full glass right after the shot keeps concentrated minerals from drawing water into your gut and causing nausea or cramping.' },
 ]
 
 function Ingredients() {
